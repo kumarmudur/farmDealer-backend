@@ -1,2 +1,2 @@
 # farmDealer-backend
-# NodeJS express application
+# NodeJS express mangodb application
